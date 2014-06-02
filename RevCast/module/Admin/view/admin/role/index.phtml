@@ -1,0 +1,24 @@
+<?php
+$title = 'Role Administration';
+$this->headTitle($title);
+?>
+<h1><?php echo $this->escapeHtml($title); ?></h1>
+<div class="rc-button">
+    <a href="<?php echo $this->url('role', array('action'=>'add'));?>">Add new role</a>
+</div>
+
+<table class="table">
+    <tr class="headerRow">
+        <th>Role</th>
+        <th>&nbsp;</th>
+    </tr>
+    <?php foreach ($roles as $role){ ?>
+        <tr>
+            <td><?php echo $role[0]->role; ?></td>
+            <td><?php if($role[1]){ ?>
+                <a href="<?php echo $this->url('role', array('action'=>'edit', 'id' => $role[0]->id));?>">Edit</a>
+            <?php } else { echo '&nbsp;'; } ?>
+            </td>
+        </tr>
+    <?php } ?>
+</table>

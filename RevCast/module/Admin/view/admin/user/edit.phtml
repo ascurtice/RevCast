@@ -1,0 +1,31 @@
+<?php
+
+$title = 'Edit User';
+$this->headTitle($title);
+?>
+    <h1><?php echo $this->escapeHtml($title); ?></h1>
+<div class="rc-button">
+    <a href="<?php echo $this->url('user', array('action'=>'password', 'id' => $this -> id));?>">Update User Password</a>
+</div>
+<?php
+$form = $this->form;
+$form->setAttribute('action', $this->url(
+    'user',
+    array(
+        'action' => 'edit',
+        'id'     => $this->id,
+    )
+));
+$form->prepare();
+
+echo $this->form()->openTag($form);
+echo $this->formHidden($form->get('id'));
+echo $this->formRow($form->get('first_name'));
+echo $this->formRow($form->get('last_name'));
+echo $this->formRow($form->get('username'));
+echo $this->formHidden($form->get('password'));
+echo $this->formRow($form->get('email'));
+echo $this->formRow($form->get('property_id'));
+echo $this->formRow($form->get('role_id'));
+echo $this->formSubmit($form->get('submit'));
+echo $this->form()->closeTag();

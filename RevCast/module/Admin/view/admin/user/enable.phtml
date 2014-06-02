@@ -1,0 +1,33 @@
+<?php
+$title = 'Enable user';
+$this->headTitle($title);
+?>
+    <h1><?php echo $this->escapeHtml($title); ?></h1>
+<?php
+$form = $this->form;
+$form->setAttribute('user', $this->url(
+    'role',
+    array(
+        'action' => 'enable',
+        'id'     => $this->id,
+    )
+));
+$form->prepare();
+
+echo $this->form()->openTag($form);
+echo $this->formHidden($form->get('id'));
+echo $this->formHidden($form->get('username'));
+echo $this->formHidden($form->get('password'));
+echo $this->formHidden($form->get('first_name'));
+echo $this->formHidden($form->get('last_name'));
+echo $this->formHidden($form->get('email'));
+
+echo 'Name: ' . $user -> first_name . ' ' . $user -> last_name;
+echo '<br />';
+echo 'Username: ' . $user -> username;
+echo '<br />';
+
+echo $this->formRow($form->get('property_id'));
+echo $this->formRow($form->get('role_id'));
+echo $this->formSubmit($form->get('submit'));
+echo $this->form()->closeTag();

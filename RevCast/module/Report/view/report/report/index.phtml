@@ -1,0 +1,22 @@
+<?php
+$title = 'Please select a property:';
+$this->headTitle($title);
+?>
+    <h1><?php echo $this->escapeHtml($title); ?></h1>
+    <table class="table">
+        <tr class="headerRow">
+            <th>Brand</th>
+            <th>Location</th>
+            <th>Abbreviation</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+        </tr>
+        <?php foreach ($properties as $property){ ?>
+            <tr>
+                <td><?php echo $brands[$property->brand_id];?></td>
+                <td><?php echo $property->location;?></td>
+                <td><?php echo $property->abbreviation;?></td>
+                <td><a href="<?php echo $this->url('report',array('action'=>'generate', 'id' => $property->id));?>">Select</a></td>
+            </tr>
+        <?php } ?>
+    </table>

@@ -1,0 +1,8 @@
+<?php
+$title = 'Administration';
+$this->headTitle($title);
+?>
+<h1><?php echo $this->escapeHtml($title); ?></h1>
+<?php foreach ($actions as $action): ?>
+	<p><a href="<?php echo $action['url']; ?>"><?php echo $action['title']; ?></a></p>
+<?php endforeach; ?>

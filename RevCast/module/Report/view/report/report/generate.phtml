@@ -1,0 +1,147 @@
+<?php
+$title = $brand -> brand . ' ' . $property -> location;
+$this->headTitle($title);
+?>
+    <h1><?php echo $this->escapeHtml($title); ?></h1>
+<div class="selection">
+	<div class="rc-button mtd" style="margin-left: 10px;">
+	    <a href="#">Month-to-Date</a>
+	</div>
+	<div class="rc-button ytd">
+	    <a href="#">Year-to-Date</a>
+	</div>
+</div>
+<div id="mtd">
+<table class="table">
+	<tr>
+		<th colspan="10"><h3>Month-to-Date: <?php echo date('F') ?></h3></th>
+	</tr>
+	<tr>
+		<th colspan="1">&nbsp;</th>
+		<th colspan="3"><?php echo date('Y'); ?></th>
+		<th  class="py" colspan="3"><?php echo date('Y', strtotime('-1 year')); ?></th>
+		<th colspan="3">Variance</th>
+	</tr>
+	<tr class="headerRow">
+		<th style="text-align: left;">Account Name</th>
+		<th>Rooms</th>
+		<th>ADR</th>
+		<th>Revenue</th>
+		<th class="py">Rooms</th>
+		<th class="py">ADR</th>
+		<th class="py">Revenue</th>
+		<th>Rooms</th>
+		<th>ADR</th>
+		<th>Revenue</th>
+	</tr>
+	<?php if(count($MTDTotals) > 0){?>
+	<?php foreach($MTDTotals as $key => $value){ ?>
+	<tr class="border-bottom">
+		<td style="font-weight: bold;"><?php echo $key ?></td>
+		<td class="value"><?php echo number_format($value['rooms']); ?></td>
+		<td class="value-right"><?php echo '$' . number_format($value['adr'], 2); ?></td>
+		<td class="value-right"><?php echo '$' . number_format($value['rev'], 2); ?></td>
+		<td class="value py"><?php echo number_format($value['pyrooms']); ?></td>
+		<td class="value-right py"><?php echo '$' . number_format($value['pyadr'], 2); ?></td>
+		<td class="value-right py py-rev"><?php echo '$' . number_format($value['pyrev'], 2); ?></td>
+		<td class="value"><?php echo number_format($value['vrooms']); ?></td>
+		<td class="value-right"><?php echo '$' . number_format($value['vadr'], 2); ?></td>
+		<td class="value-right"><?php echo '$' . number_format($value['vrev'], 2); ?></td>
+	</tr>
+	<?php } ?>
+	<tr class="totals">
+		<td>Totals</td>
+		<td class="value final"><?php echo number_format($finalMTD['rooms']); ?></td>
+		<td class="value-right final"><?php echo '$' . number_format($finalMTD['adr'], 2); ?></td>
+		<td class="value-right final"><?php echo '$' . number_format($finalMTD['rev'], 2); ?></td>
+		<td class="value final py"><?php echo number_format($finalMTD['pyrooms']); ?></td>
+		<td class="value-right final py"><?php echo '$' . number_format($finalMTD['pyadr'], 2); ?></td>
+		<td class="value-right final py"><?php echo '$' . number_format($finalMTD['pyrev'], 2); ?></td>
+		<td class="value final"><?php echo number_format($finalMTD['vrooms']); ?></td>
+		<td class="value-right final"><?php echo '$' . number_format($finalMTD['vadr'], 2); ?></td>
+		<td class="value-right final"><?php echo '$' . number_format($finalMTD['vrev'], 2); ?></td>
+	</tr>
+	<?php } else{ ?>
+	<tr><td colspan="10">No data returned for current month.</td></tr>
+	<?php }  ?>
+</table>
+</div>
+<div id="ytd">
+<table class="table">
+	<tr>
+		<th colspan="10"><h3>Year-to-Date</h3></th>
+	</tr>
+	<tr>
+		<th colspan="1">&nbsp;</th>
+		<th colspan="3"><?php echo date('Y'); ?></th>
+		<th colspan="3"><?php echo date('Y', strtotime('-1 year')); ?></th>
+		<th colspan="3">Variance</th>
+	</tr>
+	<tr class="headerRow">
+		<th style="text-align: left;">Account Name</th>
+		<th>Rooms</th>
+		<th>ADR</th>
+		<th>Revenue</th>
+		<th>Rooms</th>
+		<th>ADR</th>
+		<th>Revenue</th>
+		<th>Rooms</th>
+		<th>ADR</th>
+		<th>Revenue</th>
+	</tr>
+	<?php if(count($YTDTotals) > 0){ ?>
+	<?php foreach($YTDTotals as $key => $value){ ?>
+	<tr class="border-bottom">
+		<td style="font-weight: bold;"><?php echo $key ?></td>
+		<td class="value"><?php echo number_format($value['rooms']); ?></td>
+		<td class="value-right"><?php echo '$' . number_format($value['adr'], 2); ?></td>
+		<td class="value-right"><?php echo '$' . number_format($value['rev'], 2); ?></td>
+		<td class="value py"><?php echo number_format($value['pyrooms']); ?></td>
+		<td class="value-righ py"><?php echo '$' . number_format($value['pyadr'], 2); ?></td>
+		<td class="value-right py py-rev"><?php echo '$' . number_format($value['pyrev'], 2); ?></td>
+		<td class="value"><?php echo number_format($value['vrooms']); ?></td>
+		<td class="value-right"><?php echo '$' . number_format($value['vadr'], 2); ?></td>
+		<td class="value-right"><?php echo '$' . number_format($value['vrev'], 2); ?></td>
+	</tr>
+	<?php } ?>
+	<tr class="totals">
+		<td>Totals</td>
+		<td class="value final"><?php echo number_format($finalYTD['rooms']); ?></td>
+		<td class="value-right final"><?php echo '$' . number_format($finalYTD['adr'], 2); ?></td>
+		<td class="value-right final"><?php echo '$' . number_format($finalYTD['rev'], 2); ?></td>
+		<td class="value final py"><?php echo number_format($finalYTD['pyrooms']); ?></td>
+		<td class="value-right final py"><?php echo '$' . number_format($finalYTD['pyadr'], 2); ?></td>
+		<td class="value-right final py py-rev"><?php echo '$' . number_format($finalYTD['pyrev'], 2); ?></td>
+		<td class="value final"><?php echo number_format($finalYTD['vrooms']); ?></td>
+		<td class="value-right final"><?php echo '$' . number_format($finalYTD['vadr'], 2); ?></td>
+		<td class="value-right final"><?php echo '$' . number_format($finalYTD['vrev'], 2); ?></td>
+	</tr>
+	<?php } else { ?>
+	<tr><td colspan="10">No data returned for YTD.</td></tr>
+	<?php } ?>
+</table>
+</div>
+<script>
+	$(function(){
+		$(".mtd").addClass("active");
+		$(".ytd").removeClass("active");
+		$("#mtd").show();
+		$("#ytd").hide();
+	});
+	$(".mtd").click(
+		function(){
+			$(".mtd").addClass("active");
+			$(".ytd").removeClass("active");
+			$("#mtd").show();
+			$("#ytd").hide();
+		}
+	);
+	$(".ytd").click(
+		function(){
+			$(".ytd").addClass("active");
+			$(".mtd").removeClass("active");
+			$("#ytd").show();
+			$("#mtd").hide();
+		}
+	);
+</script>

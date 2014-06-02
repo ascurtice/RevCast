@@ -1,0 +1,42 @@
+<?php
+$title = 'User Administration';
+$this->headTitle($title);
+?>
+<h1><?php echo $this->escapeHtml($title); ?></h1>
+<div class="rc-button">
+    <a href="<?php echo $this->url('user', array('action'=>'add'));?>">Add new user</a>
+</div>
+<div class="rc-button">
+    <a href="<?php echo $this->url('user', array('action'=>'inactive'));?>">View Inactive Users</a>
+</div>
+
+<table class="table">
+    <tr class="headerRow">
+        <th>Username</th>
+        <th>Email Address</th>
+        <th>Property</th>
+        <th>Role</th>
+        <th>&nbsp;</th>
+        <th>&nbsp;</th>
+    </tr>
+    <?php foreach ($this->paginator as $user){?>
+        <tr>
+            <td><?php echo $user->username; ?></td>
+            <td><?php echo $user->email; ?></td>
+            <td><?php echo $properties[$user->property_id]; ?></td>
+            <td><?php echo $roles[$user->role_id]; ?></td>
+            <td><a href="<?php echo $this->url('user', array('action'=>'edit', 'id' => $user->id));?>">Edit</a></td>
+            <td><a href="<?php echo $this->url('user',array('action'=>'disable', 'id' => $user->id));?>">Disable</a></td>
+        </tr>
+    <?php } ?>
+</table>
+<?php
+echo $this->paginationControl(
+    $this->paginator,
+    'sliding',
+    array('partial/paginator.phtml', 'User'),
+    array(
+        'route' => 'user'
+    )
+);
+?>

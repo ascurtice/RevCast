@@ -1,0 +1,203 @@
+MONTH	Rate Code	Market Group	A	Association - A	GZGRP	Group Default Rate	 0	 0.00	 0.00	 0.00%	 0	 3	 321.00	 107.00	 0.04%	 4	 60	 100.73	 0.35%	 68	 6,044.00	 9,115.00	 97	 0	 0.00	 0.00	 0.00%	 0	 10	 1,070.00	 107.00	 0.12%	 11	 89	 102.42	 0.52%	
+MONTH	Rate Code	Market Group	A	Association - A	No Code		 0	 0.00	 0.00	 0.00%	 0	 7	 749.00	 107.00	 0.09%	 7	 29	 105.90	 0.17%	 29	 3,071.00	 9,115.00	 97	 0	 0.00	 0.00	 0.00%	 0	 10	 1,070.00	 107.00	 0.12%	 11	 89	 102.42	 0.52%	
+MONTH	Rate Code	Market Group	B	Corp-Packages -B	GZGRP	Group Default Rate	 0	 0.00	 0.00	 0.00%	 0	 0	 99.00	 0.00	 0.00%	 0	 0	 0.00	 0.00%	 0	 99.00	
+MONTH	Rate Code	Market Group	B	Corp-Packages -B	IDARP	Senior Discount	 0	 0.00	 0.00	 0.00%	 0	 0	 152.00	 0.00	 0.00%	 0	 0	 0.00	 0.00%	 0	 152.00	
+MONTH	Rate Code	Market Group	B	Corp-Packages -B	IDAVA	Book Early And Save	 0	 0.00	 0.00	 0.00%	 0	 0	 253.54	 0.00	 0.00%	 0	 0	 0.00	 0.00%	 0	 357.55	
+MONTH	Rate Code	Market Group	B	Corp-Packages -B	IDAVT	Special Offer	 0	 129.60	 0.00	 0.00%	 0	 0	 129.60	 0.00	 0.00%	 0	 0	 0.00	 0.00%	 0	 129.60	
+MONTH	Rate Code	Market Group	B	Corp-Packages -B	IDINR	Internet Net Rate	 0	 65.00	 0.00	 0.00%	 0	 0	 229.00	 0.00	 0.00%	 0	 0	 0.00	 0.00%	 0	 359.00	
+MONTH	Rate Code	Market Group	B	Corp-Packages -B	IDL00	Tpi 00p Med Fence	 0	 0.00	 0.00	 0.00%	 0	 0	 0.00	 0.00	 0.00%	 0	 0	 0.00	 0.00%	 0	 114.24	
+MONTH	Rate Code	Market Group	B	Corp-Packages -B	IDL0G	Tpi 00p Med Gst Cc	 0	 0.00	 0.00	 0.00%	 0	 0	 0.00	 0.00	 0.00%	 0	 0	 0.00	 0.00%	 0	 0.00	
+MONTH	Rate Code	Market Group	B	Corp-Packages -B	IDU00	Tpi 00p Low Fence	 0	 270.00	 0.00	 0.00%	 0	 0	 270.00	 0.00	 0.00%	 0	 0	 0.00	 0.00%	 0	 270.00	
+MONTH	Rate Code	Market Group	B	Corp-Packages -B	IDU25	Tpi 25p Low Fence	 0	 0.00	 0.00	 0.00%	 0	 0	 445.37	 0.00	 0.00%	 0	 0	 0.00	 0.00%	 0	 581.03	
+MONTH	Rate Code	Market Group	B	Corp-Packages -B	IEB6I	Phillips Sixty Six	 0	 0.00	 0.00	 0.00%	 0	 0	 73.00	 0.00	 0.00%	 0	 0	 0.00	 0.00%	 0	 219.00	
+MONTH	Rate Code	Market Group	B	Corp-Packages -B	IGCOR	Best Flexible Rate	 0	 0.00	 0.00	 0.00%	 0	 0	 367.00	 0.00	 0.00%	 0	 1	 1,003.00	 0.01%	 1	 1,003.00	
+MONTH	Rate Code	Market Group	B	Corp-Packages -B	IGN01	Gold 1	 0	 101.75	 0.00	 0.00%	 0	 0	 101.75	 0.00	 0.00%	 0	 0	 0.00	 0.00%	 0	 101.75	
+MONTH	Rate Code	Market Group	B	Corp-Packages -B	IL0IX	Lee Enterprises	 0	 0.00	 0.00	 0.00%	 0	 0	 176.00	 0.00	 0.00%	 0	 0	 0.00	 0.00%	 0	 176.00	
+MONTH	Rate Code	Market Group	B	Corp-Packages -B	IL2VM	Cape Air	 0	 0.00	 0.00	 0.00%	 0	 0	 89.00	 0.00	 0.00%	 0	 1	 267.00	 0.01%	 1	 267.00	
+MONTH	Rate Code	Market Group	B	Corp-Packages -B	IL5FP	Fedrooms	 0	 0.00	 0.00	 0.00%	 0	 0	 0.00	 0.00	 0.00%	 0	 0	 0.00	 0.00%	 0	- 83.00	
+MONTH	Rate Code	Market Group	B	Corp-Packages -B	ILWJP		 0	 0.00	 0.00	 0.00%	 0	 0	 0.00	 0.00	 0.00%	 0	 0	 0.00	 0.00%	 0	 73.00	
+MONTH	Rate Code	Market Group	B	Corp-Packages -B	IMGOV	Government Rate	 0	 0.00	 0.00	 0.00%	 0	 0	 186.00	 0.00	 0.00%	 0	 0	 0.00	 0.00%	 0	 352.00	
+MONTH	Rate Code	Market Group	B	Corp-Packages -B	IMSTI	State Government	 0	 0.00	 0.00	 0.00%	 0	 0	 83.00	 0.00	 0.00%	 0	 0	 0.00	 0.00%	 0	 83.00	
+MONTH	Rate Code	Market Group	B	Corp-Packages -B	IPBNR	Burlington Northern	 0	 0.00	 0.00	 0.00%	 0	 0	 148.00	 0.00	 0.00%	 0	 0	 0.00	 0.00%	 0	 296.00	
+MONTH	Rate Code	Market Group	B	Corp-Packages -B	IPHFM	Hoffman La Roche	 0	 0.00	 0.00	 0.00%	 0	 0	 0.00	 0.00	 0.00%	 0	 0	 0.00	 0.00%	 0	 0.00	
+MONTH	Rate Code	Market Group	B	Corp-Packages -B	IPRRU	Billings Clinic	 0	 0.00	 0.00	 0.00%	 0	 0	 102.00	 0.00	 0.00%	 0	 0	 0.00	 0.00%	 0	 102.00	
+MONTH	Rate Code	IPV6I	Signal Peak Energies	 0	 0.00	 0.00	 0.00%	 0	 0	 0.00	 0.00	 0.00%	 0	 0	 0.00	 0.00%	 0	 89.00	 5,693.62	 8	 3	 843.35	 281.12	 1.04%	 5	 4	 3,351.26	 837.82	 0.05%	 6	 6	 948.94	 0.04%	
+MONTH	Rate Code	IPXCP	H E Parts Internatio	 0	 0.00	 0.00	 0.00%	 0	 0	 0.00	 0.00	 0.00%	 0	 0	 0.00	 0.00%	 0	 109.00	 5,693.62	 8	 3	 843.35	 281.12	 1.04%	 5	 4	 3,351.26	 837.82	 0.05%	 6	 6	 948.94	 0.04%	
+MONTH	Rate Code	IVFFB	Friend Family Bfr 15	 0	 0.00	 0.00	 0.00%	 0	 0	 0.00	 0.00	 0.00%	 0	 0	 0.00	 0.00%	 0	 303.45	 5,693.62	 8	 3	 843.35	 281.12	 1.04%	 5	 4	 3,351.26	 837.82	 0.05%	 6	 6	 948.94	 0.04%	
+MONTH	Rate Code	NA_RATE_CODE	Night Audit Rate Code	 0	 0.00	 0.00	 0.00%	 0	 0	- 25.00	 0.00	 0.00%	 0	 0	 0.00	 0.00%	 0	- 25.00	 5,693.62	 8	 3	 843.35	 281.12	 1.04%	 5	 4	 3,351.26	 837.82	 0.05%	 6	 6	 948.94	 0.04%	
+MONTH	Rate Code	No Code		 3	 277.00	 92.33	 1.04%	 5	 4	 472.00	 118.00	 0.05%	 6	 4	 141.25	 0.02%	 6	 565.00	 5,693.62	 8	 3	 843.35	 281.12	 1.04%	 5	 4	 3,351.26	 837.82	 0.05%	 6	 6	 948.94	 0.04%	
+MONTH	Rate Code	Market Group	C	Corporate Group - C	GZGRP	Group Default Rate	 0	 0.00	 0.00	 0.00%	 0	 67	 7,206.00	 107.55	 0.83%	 71	 179	 100.36	 1.05%	 246	 17,964.00	 63,450.00	 896	 0	 0.00	 0.00	 0.00%	 0	 474	 46,740.00	 98.61	 5.86%	 640	 655	 96.87	 3.84%	
+MONTH	Rate Code	Market Group	C	Corporate Group - C	IGCOR	Best Flexible Rate	 0	 0.00	 0.00	 0.00%	 0	 3	 513.00	 171.00	 0.04%	 3	 3	 171.00	 0.02%	 3	 513.00	 63,450.00	 896	 0	 0.00	 0.00	 0.00%	 0	 474	 46,740.00	 98.61	 5.86%	 640	 655	 96.87	 3.84%	
+MONTH	Rate Code	Market Group	C	Corporate Group - C	INCMP	House Use Comp	 0	 0.00	 0.00	 0.00%	 0	 0	 0.00	 0.00	 0.00%	 0	 7	 0.00	 0.04%	 7	 0.00	 63,450.00	 896	 0	 0.00	 0.00	 0.00%	 0	 474	 46,740.00	 98.61	 5.86%	 640	 655	 96.87	 3.84%	
+MONTH	Rate Code	Market Group	C	Corporate Group - C	No Code		 0	 0.00	 0.00	 0.00%	 0	 404	 39,021.00	 96.59	 4.99%	 566	 466	 96.51	 2.73%	 640	 44,973.00	 63,450.00	 896	 0	 0.00	 0.00	 0.00%	 0	 474	 46,740.00	 98.61	 5.86%	 640	 655	 96.87	 3.84%	
+MONTH	Rate Code	Market Group	D	Discount - D	IDAAA	Aaa Membership Rate	 6	 783.00	 130.50	 2.08%	 8	 67	 9,429.20	 140.73	 0.83%	 91	 210	 138.31	 1.23%	 270	 29,046.12	
+MONTH	Rate Code	Market Group	D	Discount - D	IDARP	Senior Discount	 3	 367.48	 122.49	 1.04%	 4	 24	 3,542.24	 147.59	 0.30%	 35	 77	 138.31	 0.45%	 95	 10,649.60	
+MONTH	Rate Code	Market Group	D	Discount - D	IDAVA	Book Early And Save	 7	 832.67	 118.95	 2.42%	 9	 64	 8,548.51	 133.57	 0.79%	 80	 168	 140.51	 0.99%	 225	 23,605.85	
+MONTH	Rate Code	Market Group	D	Discount - D	IDAVT	Special Offer	 2	 268.80	 134.40	 0.69%	 5	 71	 9,896.68	 139.39	 0.88%	 112	 129	 141.46	 0.76%	 182	 18,248.24	
+MONTH	Rate Code	Market Group	D	Discount - D	IDH00	Tpi 00p Hvy Fence	 0	 0.00	 0.00	 0.00%	 0	 1	 154.13	 154.13	 0.01%	 1	 5	 124.95	 0.03%	 8	 624.73	
+MONTH	Rate Code	Market Group	D	Discount - D	IDH0G	Tpi 00p Hvy Gst Cc	 1	 117.65	 117.65	 0.35%	 2	 8	 1,092.59	 136.57	 0.10%	 16	 10	 134.61	 0.06%	 20	 1,346.13	
+MONTH	Rate Code	Market Group	D	Discount - D	IDH15	Tpi 15p Hvy Fence	 0	 0.00	 0.00	 0.00%	 0	 27	 2,918.63	 108.10	 0.33%	 38	 58	 102.69	 0.34%	 85	 5,956.01	
+MONTH	Rate Code	Market Group	D	Discount - D	IDH25	Tpi 25p Hvy Fence	 1	 70.18	 70.18	 0.35%	 4	 3	 229.21	 76.40	 0.04%	 8	 12	 86.83	 0.07%	 19	 1,041.99	
+MONTH	Rate Code	Market Group	D	Discount - D	IDINR	Internet Net Rate	 17	 1,105.00	 65.00	 5.88%	 34	 133	 9,556.00	 71.85	 1.64%	 258	 266	 70.25	 1.56%	 528	 18,686.00	
+MONTH	Rate Code	Market Group	D	Discount - D	IDL00	Tpi 00p Med Fence	 0	 0.00	 0.00	 0.00%	 0	 5	 730.56	 146.11	 0.06%	 10	 8	 133.57	 0.05%	 15	 1,068.52	
+MONTH	Rate Code	Market Group	D	Discount - D	IDL0G	Tpi 00p Med Gst Cc	 0	 0.00	 0.00	 0.00%	 0	 7	 1,019.52	 145.65	 0.09%	 14	 10	 140.06	 0.06%	 20	 1,400.64	
+MONTH	Rate Code	Market Group	D	Discount - D	IDL15	Tpi 15p Med Fence	 0	 0.00	 0.00	 0.00%	 0	 33	 3,741.54	 113.38	 0.41%	 64	 47	 122.22	 0.28%	 91	 5,744.44	
+MONTH	Rate Code	Market Group	D	Discount - D	IDOTH	Mingle Bells Rate	 0	 0.00	 0.00	 0.00%	 0	 0	 0.00	 0.00	 0.00%	 0	 3	 99.00	 0.02%	 3	 297.00	
+MONTH	Rate Code	IDOTHDEL	Delta Distressed	 0	 0.00	 0.00	 0.00%	 0	 0	 0.00	 0.00	 0.00%	 0	 5	 59.00	 0.03%	 5	 295.00	 148,895.18	 2144	 39	 3,766.73	 96.58	 13.49%	 70	 624	 67,796.77	 108.65	 7.71%	 1070	 1351	 110.21	 7.92%	
+MONTH	Rate Code	IDOTHMGR	Managers Discount	 0	 0.00	 0.00	 0.00%	 0	 26	 2,621.74	 100.84	 0.32%	 28	 55	 98.36	 0.32%	 63	 5,409.74	 148,895.18	 2144	 39	 3,766.73	 96.58	 13.49%	 70	 624	 67,796.77	 108.65	 7.71%	 1070	 1351	 110.21	 7.92%	
+MONTH	Rate Code	IDOTHUDS	United Distressed	 0	 0.00	 0.00	 0.00%	 0	 2	 118.00	 59.00	 0.02%	 2	 40	 60.88	 0.23%	 41	 2,435.00	 148,895.18	 2144	 39	 3,766.73	 96.58	 13.49%	 70	 624	 67,796.77	 108.65	 7.71%	 1070	 1351	 110.21	 7.92%	
+MONTH	Rate Code	IDU00	Tpi 00p Low Fence	 0	 0.00	 0.00	 0.00%	 0	 1	 119.00	 119.00	 0.01%	 4	 2	 139.00	 0.01%	 5	 278.00	 148,895.18	 2144	 39	 3,766.73	 96.58	 13.49%	 70	 624	 67,796.77	 108.65	 7.71%	 1070	 1351	 110.21	 7.92%	
+MONTH	Rate Code	IDU0G	Tpi 00p Low Gst Cc	 1	 145.00	 145.00	 0.35%	 2	 11	 1,435.00	 130.45	 0.14%	 21	 12	 129.50	 0.07%	 23	 1,554.00	 148,895.18	 2144	 39	 3,766.73	 96.58	 13.49%	 70	 624	 67,796.77	 108.65	 7.71%	 1070	 1351	 110.21	 7.92%	
+MONTH	Rate Code	IDU15	Tpi 15p Low Fence	 0	 0.00	 0.00	 0.00%	 0	 32	 4,081.91	 127.56	 0.40%	 56	 51	 120.72	 0.30%	 86	 6,156.76	 148,895.18	 2144	 39	 3,766.73	 96.58	 13.49%	 70	 624	 67,796.77	 108.65	 7.71%	 1070	 1351	 110.21	 7.92%	
+MONTH	Rate Code	IDU25	Tpi 25p Low Fence	 1	 76.95	 76.95	 0.35%	 2	 101	 7,686.86	 76.11	 1.25%	 223	 156	 77.58	 0.91%	 332	 12,102.21	 148,895.18	 2144	 39	 3,766.73	 96.58	 13.49%	 70	 624	 67,796.77	 108.65	 7.71%	 1070	 1351	 110.21	 7.92%	
+MONTH	Rate Code	IGCOR	Best Flexible Rate	 0	 0.00	 0.00	 0.00%	 0	 8	 875.45	 109.43	 0.10%	 9	 20	 110.42	 0.12%	 21	 2,208.45	 148,895.18	 2144	 39	 3,766.73	 96.58	 13.49%	 70	 624	 67,796.77	 108.65	 7.71%	 1070	 1351	 110.21	 7.92%	
+MONTH	Rate Code	IWU25	Tpi 25p Low Fence Wh	 0	 0.00	 0.00	 0.00%	 0	 0	 0.00	 0.00	 0.00%	 0	 7	 106.39	 0.04%	 7	 744.75	 148,895.18	 2144	 39	 3,766.73	 96.58	 13.49%	 70	 624	 67,796.77	 108.65	 7.71%	 1070	 1351	 110.21	 7.92%	
+MONTH	Rate Code	NA_RATE_CODE	Night Audit Rate Code	 0	 0.00	 0.00	 0.00%	 0	 0	 0.00	 0.00	 0.00%	 0	 0	 0.00	 0.00%	 0	- 4.00	 148,895.18	 2144	 39	 3,766.73	 96.58	 13.49%	 70	 624	 67,796.77	 108.65	 7.71%	 1070	 1351	 110.21	 7.92%	
+MONTH	Rate Code	Market Group	G	Corp-Global - G	IGM01	Mid Market Account 1	 0	 0.00	 0.00	 0.00%	 0	 6	 784.92	 130.82	 0.07%	 6	 10	 134.58	 0.06%	 10	 1,345.82	 31,728.27	 246	 3	 319.86	 106.62	 1.04%	 3	 167	 22,641.35	 135.58	 2.06%	 174	 237	 133.87	 1.39%	
+MONTH	Rate Code	Market Group	G	Corp-Global - G	IGM03	Mid Market Account 3	 0	 0.00	 0.00	 0.00%	 0	 14	 2,025.00	 144.64	 0.17%	 14	 17	 144.37	 0.10%	 17	 2,454.30	 31,728.27	 246	 3	 319.86	 106.62	 1.04%	 3	 167	 22,641.35	 135.58	 2.06%	 174	 237	 133.87	 1.39%	
+MONTH	Rate Code	Market Group	G	Corp-Global - G	IGM04	Mid Market Account 4	 0	 0.00	 0.00	 0.00%	 0	 0	 0.00	 0.00	 0.00%	 0	 3	 150.97	 0.02%	 3	 452.91	 31,728.27	 246	 3	 319.86	 106.62	 1.04%	 3	 167	 22,641.35	 135.58	 2.06%	 174	 237	 133.87	 1.39%	
+MONTH	Rate Code	Market Group	G	Corp-Global - G	IGM05	Mid Market Account 5	 0	 0.00	 0.00	 0.00%	 0	 9	 1,355.65	 150.63	 0.11%	 9	 14	 150.78	 0.08%	 14	 2,110.90	 31,728.27	 246	 3	 319.86	 106.62	 1.04%	 3	 167	 22,641.35	 135.58	 2.06%	 174	 237	 133.87	 1.39%	
+MONTH	Rate Code	Market Group	G	Corp-Global - G	IGN01	Gold 1	 3	 319.86	 106.62	 1.04%	 3	 107	 13,989.94	 130.75	 1.32%	 113	 142	 127.68	 0.83%	 149	 18,130.34	 31,728.27	 246	 3	 319.86	 106.62	 1.04%	 3	 167	 22,641.35	 135.58	 2.06%	 174	 237	 133.87	 1.39%	
+MONTH	Rate Code	Market Group	G	Corp-Global - G	IGN03	Gold 3	 0	 0.00	 0.00	 0.00%	 0	 16	 2,261.55	 141.35	 0.20%	 16	 25	 139.16	 0.15%	 26	 3,478.99	 31,728.27	 246	 3	 319.86	 106.62	 1.04%	 3	 167	 22,641.35	 135.58	 2.06%	 174	 237	 133.87	 1.39%	
+MONTH	Rate Code	Market Group	G	Corp-Global - G	IGN04	Gold 4	 0	 0.00	 0.00	 0.00%	 0	 12	 1,765.80	 147.15	 0.15%	 13	 17	 141.72	 0.10%	 18	 2,409.30	 31,728.27	 246	 3	 319.86	 106.62	 1.04%	 3	 167	 22,641.35	 135.58	 2.06%	 174	 237	 133.87	 1.39%	
+MONTH	Rate Code	Market Group	G	Corp-Global - G	IGN06	Gold 6	 0	 0.00	 0.00	 0.00%	 0	 3	 458.49	 152.83	 0.04%	 3	 9	 149.52	 0.05%	 9	 1,345.71	 31,728.27	 246	 3	 319.86	 106.62	 1.04%	 3	 167	 22,641.35	 135.58	 2.06%	 174	 237	 133.87	 1.39%	
+MONTH	Rate Code	Market Group	H	House Use - H	HOUSE	House Account	 0	 0.00	 0.00	 0.00%	 0	 0	- 867.64	 0.00	 0.00%	 0	 0	 0.00	 0.00%	 0	- 2,326.52	
+MONTH	Rate Code	Market Group	H	House Use - H	IL5FR	First Interstate Ban	 0	 0.00	 0.00	 0.00%	 0	 0	- 79.00	 0.00	 0.00%	 0	 0	 0.00	 0.00%	 0	- 79.00	
+MONTH	Rate Code	Market Group	H	House Use - H	IMGOV	Government Rate	 0	 0.00	 0.00	 0.00%	 0	 0	 0.00	 0.00	 0.00%	 0	 0	 0.00	 0.00%	 0	- 75.00	
+MONTH	Rate Code	Market Group	H	House Use - H	NA_RATE_CODE	Night Audit Rate Code	 0	 0.00	 0.00	 0.00%	 0	 0	 59.00	 0.00	 0.00%	 0	 0	 0.00	 0.00%	 0	 0.00	
+MONTH	Rate Code	Market Group	K	Package-Leisure -K	IDAVA	Book Early And Save	 0	 0.00	 0.00	 0.00%	 0	 0	 0.00	 0.00	 0.00%	 0	 1	 128.73	 0.01%	 1	 128.73	 36,334.83	 346	 1	 140.00	 140.00	 0.35%	 2	 143	 20,943.15	 146.46	 1.77%	 213	 245	 148.31	 1.44%	
+MONTH	Rate Code	Market Group	K	Package-Leisure -K	IGBBB	Best Flex With Bkfst	 0	 0.00	 0.00	 0.00%	 0	 79	 11,659.60	 147.59	 0.98%	 122	 146	 150.12	 0.86%	 206	 21,917.40	 36,334.83	 346	 1	 140.00	 140.00	 0.35%	 2	 143	 20,943.15	 146.46	 1.77%	 213	 245	 148.31	 1.44%	
+MONTH	Rate Code	Market Group	K	Package-Leisure -K	IKB00	Tpi 00p Breakfast	 0	 0.00	 0.00	 0.00%	 0	 1	 143.00	 143.00	 0.01%	 2	 1	 143.00	 0.01%	 2	 143.00	 36,334.83	 346	 1	 140.00	 140.00	 0.35%	 2	 143	 20,943.15	 146.46	 1.77%	 213	 245	 148.31	 1.44%	
+MONTH	Rate Code	Market Group	K	Package-Leisure -K	IKB0G	Tpi 00p Bkf Gst Cc	 0	 0.00	 0.00	 0.00%	 0	 3	 503.00	 167.67	 0.04%	 6	 3	 167.67	 0.02%	 6	 503.00	 36,334.83	 346	 1	 140.00	 140.00	 0.35%	 2	 143	 20,943.15	 146.46	 1.77%	 213	 245	 148.31	 1.44%	
+MONTH	Rate Code	Market Group	K	Package-Leisure -K	IKB15	Tpi 15p Brkfast	 0	 0.00	 0.00	 0.00%	 0	 10	 1,210.20	 121.02	 0.12%	 15	 14	 116.50	 0.08%	 23	 1,631.00	 36,334.83	 346	 1	 140.00	 140.00	 0.35%	 2	 143	 20,943.15	 146.46	 1.77%	 213	 245	 148.31	 1.44%	
+MONTH	Rate Code	Market Group	K	Package-Leisure -K	IKB25	Tpi 25p Brkfast Pkg	 0	 0.00	 0.00	 0.00%	 0	 1	 78.35	 78.35	 0.01%	 2	 2	 85.85	 0.01%	 4	 171.70	 36,334.83	 346	 1	 140.00	 140.00	 0.35%	 2	 143	 20,943.15	 146.46	 1.77%	 213	 245	 148.31	 1.44%	
+MONTH	Rate Code	Market Group	K	Package-Leisure -K	IKMGP	Mobile Comfort Pkg	 0	 0.00	 0.00	 0.00%	 0	 2	 364.00	 182.00	 0.02%	 2	 2	 182.00	 0.01%	 2	 364.00	 36,334.83	 346	 1	 140.00	 140.00	 0.35%	 2	 143	 20,943.15	 146.46	 1.77%	 213	 245	 148.31	 1.44%	
+MONTH	Rate Code	Market Group	K	Package-Leisure -K	IKPCM	1000 Bonus Points Nt	 1	 140.00	 140.00	 0.35%	 2	 26	 4,456.00	 171.38	 0.32%	 36	 47	 166.70	 0.28%	 59	 7,835.00	 36,334.83	 346	 1	 140.00	 140.00	 0.35%	 2	 143	 20,943.15	 146.46	 1.77%	 213	 245	 148.31	 1.44%	
+MONTH	Rate Code	Market Group	K	Package-Leisure -K	IKPNF	Park Stay And Go	 0	 0.00	 0.00	 0.00%	 0	 17	 1,883.00	 110.76	 0.21%	 21	 25	 119.80	 0.15%	 36	 2,995.00	 36,334.83	 346	 1	 140.00	 140.00	 0.35%	 2	 143	 20,943.15	 146.46	 1.77%	 213	 245	 148.31	 1.44%	
+MONTH	Rate Code	Market Group	K	Package-Leisure -K	ISHD2	Valentine Dinner Pkg	 0	 0.00	 0.00	 0.00%	 0	 4	 646.00	 161.50	 0.05%	 7	 4	 161.50	 0.02%	 7	 646.00	 36,334.83	 346	 1	 140.00	 140.00	 0.35%	 2	 143	 20,943.15	 146.46	 1.77%	 213	 245	 148.31	 1.44%	
+MONTH	Rate Code	Market Group	L	Corp-Negotiated Accts - L	IDOTHDEL	Delta Distressed	 0	 0.00	 0.00	 0.00%	 0	 3	 217.00	 72.33	 0.04%	 3	 3	 72.33	 0.02%	 3	 217.00	
+MONTH	Rate Code	Market Group	L	Corp-Negotiated Accts - L	IDOTHHOR	Horizon Distressed	 0	 0.00	 0.00	 0.00%	 0	 1	 158.00	 158.00	 0.01%	 1	 1	 158.00	 0.01%	 1	 158.00	
+MONTH	Rate Code	Market Group	L	Corp-Negotiated Accts - L	IDOTHUDS	United Distressed	 1	 79.00	 79.00	 0.35%	 1	 9	 631.01	 70.11	 0.11%	 9	 9	 70.11	 0.05%	 9	 631.01	
+MONTH	Rate Code	Market Group	L	Corp-Negotiated Accts - L	IEAZW	Anderson Zurmuehlen	 1	 109.00	 109.00	 0.35%	 1	 2	 218.00	 109.00	 0.02%	 2	 4	 109.00	 0.02%	 4	 436.00	
+MONTH	Rate Code	Market Group	L	Corp-Negotiated Accts - L	IEB6I	Phillips Sixty Six	 0	 0.00	 0.00	 0.00%	 0	 0	 0.00	 0.00	 0.00%	 0	 3	 95.00	 0.02%	 3	 285.00	
+MONTH	Rate Code	Market Group	L	Corp-Negotiated Accts - L	IEWYE	Payne West Insurance	 0	 0.00	 0.00	 0.00%	 0	 0	 0.00	 0.00	 0.00%	 0	 1	 127.20	 0.01%	 1	 127.20	
+MONTH	Rate Code	Market Group	L	Corp-Negotiated Accts - L	IGCOR	Best Flexible Rate	 0	 0.00	 0.00	 0.00%	 0	 16	 1,552.00	 97.00	 0.20%	 16	 24	 94.58	 0.14%	 24	 2,270.00	
+MONTH	Rate Code	Market Group	L	Corp-Negotiated Accts - L	IL06C	Dms Health Group	 0	 0.00	 0.00	 0.00%	 0	 17	 1,717.00	 101.00	 0.21%	 17	 20	 104.00	 0.12%	 20	 2,080.00	
+MONTH	Rate Code	Market Group	L	Corp-Negotiated Accts - L	IL0BR	Edwards Jet Center	 0	 0.00	 0.00	 0.00%	 0	 22	 1,848.00	 84.00	 0.27%	 29	 49	 84.00	 0.29%	 61	 4,116.00	
+MONTH	Rate Code	Market Group	L	Corp-Negotiated Accts - L	IL0IX	Lee Enterprises	 0	 0.00	 0.00	 0.00%	 0	 29	 2,500.00	 86.21	 0.36%	 46	 38	 86.63	 0.22%	 58	 3,292.00	
+MONTH	Rate Code	Market Group	L	Corp-Negotiated Accts - L	IL0Z7	Tri State Commercial	 0	 0.00	 0.00	 0.00%	 0	 4	 396.00	 99.00	 0.05%	 4	 13	 99.00	 0.08%	 13	 1,287.00	
+MONTH	Rate Code	Market Group	L	Corp-Negotiated Accts - L	IL2R4	Cta Architects Engin	 0	 0.00	 0.00	 0.00%	 0	 7	 643.00	 91.86	 0.09%	 7	 21	 89.95	 0.12%	 22	 1,889.00	
+MONTH	Rate Code	IL2SJ	St Jude Medical Inco	 0	 0.00	 0.00	 0.00%	 0	 3	 336.00	 112.00	 0.04%	 3	 4	 107.00	 0.02%	 4	 428.00	
+MONTH	Rate Code	IL2VM	Cape Air	 1	 89.00	 89.00	 0.35%	 1	 115	 10,321.00	 89.75	 1.42%	 115	 301	 89.29	 1.77%	 301	 26,875.00	
+MONTH	Rate Code	IL3WY	Billings Mustangs Ci	 0	 0.00	 0.00	 0.00%	 0	 4	 476.00	 119.00	 0.05%	 8	 4	 119.00	 0.02%	 8	 476.00	
+MONTH	Rate Code	IL42T	Auto Auction	 0	 0.00	 0.00	 0.00%	 0	 13	 1,027.00	 79.00	 0.16%	 13	 32	 81.47	 0.19%	 33	 2,607.00	
+MONTH	Rate Code	IL5FR	First Interstate Ban	 0	 0.00	 0.00	 0.00%	 0	 98	 8,256.00	 84.24	 1.21%	 109	 116	 85.47	 0.68%	 127	 9,914.00	
+MONTH	Rate Code	IL6L7	St Vincents Hospital	 4	 404.00	 101.00	 1.38%	 4	 87	 8,827.00	 101.46	 1.08%	 87	 164	 100.93	 0.96%	 165	 16,552.00	
+MONTH	Rate Code	IL8L9	Lifenet	 0	 0.00	 0.00	 0.00%	 0	 2	 238.00	 119.00	 0.02%	 2	 6	 125.67	 0.04%	 6	 754.00	
+MONTH	Rate Code	ILAJL	Sanjel	 0	 0.00	 0.00	 0.00%	 0	 6	 750.00	 125.00	 0.07%	 6	 12	 123.50	 0.07%	 12	 1,482.00	
+MONTH	Rate Code	ILBHB	Natl Assoc Of Interc	 1	 89.00	 89.00	 0.35%	 1	 13	 1,157.00	 89.00	 0.16%	 14	 16	 89.00	 0.09%	 17	 1,424.00	
+MONTH	Rate Code	ILCOR	Neighborhood Rate	 0	 0.00	 0.00	 0.00%	 0	 0	 0.00	 0.00	 0.00%	 0	 3	 92.00	 0.02%	 3	 276.00	
+MONTH	Rate Code	ILCPU	Computers Unllimited	 0	 0.00	 0.00	 0.00%	 0	 11	 1,196.00	 108.73	 0.14%	 11	 11	 108.73	 0.06%	 11	 1,196.00	
+MONTH	Rate Code	ILETM	Corporate Travel Man	 0	 0.00	 0.00	 0.00%	 0	 0	 0.00	 0.00	 0.00%	 0	 1	 119.00	 0.01%	 1	 119.00	
+MONTH	Rate Code	ILIZC	Ppl Montana	 1	 0.00	 0.00	 0.35%	 1	 18	 1,428.00	 79.33	 0.22%	 21	 45	 84.80	 0.26%	 53	 3,816.00	
+MONTH	Rate Code	ILJWP	Netjets Transportes	 0	 0.00	 0.00	 0.00%	 0	 0	 0.00	 0.00	 0.00%	 0	 2	 99.00	 0.01%	 2	 198.00	
+MONTH	Rate Code	ILKO3	Good Neighbor	 0	 0.00	 0.00	 0.00%	 0	 21	 2,661.60	 126.74	 0.26%	 21	 37	 122.18	 0.22%	 39	 4,520.79	
+MONTH	Rate Code	ILLXS	Sisters Of Charity O	 0	 0.00	 0.00	 0.00%	 0	 49	 5,029.00	 102.63	 0.61%	 49	 76	 104.68	 0.45%	 76	 7,956.00	
+MONTH	Rate Code	ILMYR	Medtronic Incorporat	 0	 0.00	 0.00	 0.00%	 0	 4	 396.00	 99.00	 0.05%	 4	 7	 99.00	 0.04%	 7	 693.00	
+MONTH	Rate Code	ILNHH	Nemont Telephone	 0	 0.00	 0.00	 0.00%	 0	 0	 0.00	 0.00	 0.00%	 0	 13	 99.00	 0.08%	 13	 1,287.00	
+MONTH	Rate Code	ILNLF	Us Bancorp	 0	 0.00	 0.00	 0.00%	 0	 0	 0.00	 0.00	 0.00%	 0	 2	 92.00	 0.01%	 2	 184.00	
+MONTH	Rate Code	ILOEX		 0	 0.00	 0.00	 0.00%	 0	 0	 0.00	 0.00	 0.00%	 0	 5	 102.00	 0.03%	 5	 510.00	
+MONTH	Rate Code	ILOUS	Fiserv Incorporated	 0	 0.00	 0.00	 0.00%	 0	 9	 981.00	 109.00	 0.11%	 9	 12	 109.00	 0.07%	 12	 1,308.00	
+MONTH	Rate Code	ILPPL	Ch2m Hill Companies	 0	 0.00	 0.00	 0.00%	 0	 5	 525.00	 105.00	 0.06%	 5	 6	 105.00	 0.04%	 6	 630.00	
+MONTH	Rate Code	ILPZV	Charter Communicatio	 0	 0.00	 0.00	 0.00%	 0	 1	 99.00	 99.00	 0.01%	 1	 1	 99.00	 0.01%	 1	 99.00	
+MONTH	Rate Code	ILQQA	Fei Company	 0	 0.00	 0.00	 0.00%	 0	 8	 816.00	 102.00	 0.10%	 10	 10	 102.00	 0.06%	 13	 1,020.00	
+MONTH	Rate Code	ILQZJ	Joy Global	 0	 0.00	 0.00	 0.00%	 0	 12	 1,488.00	 124.00	 0.15%	 12	 12	 124.00	 0.07%	 12	 1,488.00	
+MONTH	Rate Code	ILRBI	Travel And Transport	 0	 0.00	 0.00	 0.00%	 0	 2	 318.00	 159.00	 0.02%	 2	 10	 155.00	 0.06%	 10	 1,550.00	
+MONTH	Rate Code	ILRWW	Kamp Grounds Of Amer	 0	 0.00	 0.00	 0.00%	 0	 20	 1,920.00	 96.00	 0.25%	 21	 25	 96.00	 0.15%	 26	 2,400.00	 165,185.15	 1816	 20	 1,794.00	 89.70	 6.92%	 24	 1071	 102,520.76	 95.72	 13.24%	 1133	 1728	 95.59	 10.13%	
+MONTH	Rate Code	ILS7W	Skywest Inc	 0	 0.00	 0.00	 0.00%	 0	 1	 50.00	 50.00	 0.01%	 1	 2	 50.00	 0.01%	 2	 100.00	 165,185.15	 1816	 20	 1,794.00	 89.70	 6.92%	 24	 1071	 102,520.76	 95.72	 13.24%	 1133	 1728	 95.59	 10.13%	
+MONTH	Rate Code	ILUXO	Ppl Corporation	 0	 0.00	 0.00	 0.00%	 0	 10	 840.00	 84.00	 0.12%	 11	 12	 84.00	 0.07%	 13	 1,008.00	 165,185.15	 1816	 20	 1,794.00	 89.70	 6.92%	 24	 1071	 102,520.76	 95.72	 13.24%	 1133	 1728	 95.59	 10.13%	
+MONTH	Rate Code	ILWDP	Nationwide Hospitali	 0	 0.00	 0.00	 0.00%	 0	 0	 0.00	 0.00	 0.00%	 0	 8	 79.00	 0.05%	 8	 632.00	 165,185.15	 1816	 20	 1,794.00	 89.70	 6.92%	 24	 1071	 102,520.76	 95.72	 13.24%	 1133	 1728	 95.59	 10.13%	
+MONTH	Rate Code	ILWJP		 0	 0.00	 0.00	 0.00%	 0	 5	 365.00	 73.00	 0.06%	 5	 14	 73.00	 0.08%	 14	 1,022.00	 165,185.15	 1816	 20	 1,794.00	 89.70	 6.92%	 24	 1071	 102,520.76	 95.72	 13.24%	 1133	 1728	 95.59	 10.13%	
+MONTH	Rate Code	ILYID	Genuine Parts Compan	 2	 182.00	 91.00	 0.69%	 6	 4	 364.00	 91.00	 0.05%	 9	 5	 91.00	 0.03%	 10	 455.00	 165,185.15	 1816	 20	 1,794.00	 89.70	 6.92%	 24	 1071	 102,520.76	 95.72	 13.24%	 1133	 1728	 95.59	 10.13%	
+MONTH	Rate Code	ILYUE	Cuna Mutual Ins Grou	 1	 94.00	 94.00	 0.35%	 1	 4	 376.00	 94.00	 0.05%	 4	 4	 94.00	 0.02%	 4	 376.00	 165,185.15	 1816	 20	 1,794.00	 89.70	 6.92%	 24	 1071	 102,520.76	 95.72	 13.24%	 1133	 1728	 95.59	 10.13%	
+MONTH	Rate Code	ILZV9	Sm Energy	 1	 112.00	 112.00	 0.35%	 1	 14	 1,428.00	 102.00	 0.17%	 16	 34	 96.71	 0.20%	 37	 3,288.00	 165,185.15	 1816	 20	 1,794.00	 89.70	 6.92%	 24	 1071	 102,520.76	 95.72	 13.24%	 1133	 1728	 95.59	 10.13%	
+MONTH	Rate Code	ILZXB	Ecolab Inc	 0	 0.00	 0.00	 0.00%	 0	 7	 807.15	 115.31	 0.09%	 7	 7	 115.31	 0.04%	 7	 807.15	 165,185.15	 1816	 20	 1,794.00	 89.70	 6.92%	 24	 1071	 102,520.76	 95.72	 13.24%	 1133	 1728	 95.59	 10.13%	
+MONTH	Rate Code	IP1FH	Century Link	 0	 0.00	 0.00	 0.00%	 0	 33	 3,597.00	 109.00	 0.41%	 33	 33	 109.00	 0.19%	 33	 3,597.00	 165,185.15	 1816	 20	 1,794.00	 89.70	 6.92%	 24	 1071	 102,520.76	 95.72	 13.24%	 1133	 1728	 95.59	 10.13%	
+MONTH	Rate Code	IP60M	Crowley Law Firm	 0	 0.00	 0.00	 0.00%	 0	 6	 834.00	 139.00	 0.07%	 6	 6	 139.00	 0.04%	 6	 834.00	 165,185.15	 1816	 20	 1,794.00	 89.70	 6.92%	 24	 1071	 102,520.76	 95.72	 13.24%	 1133	 1728	 95.59	 10.13%	
+MONTH	Rate Code	IPHU2	Rosebud Operating	 0	 0.00	 0.00	 0.00%	 0	 1	 96.00	 96.00	 0.01%	 1	 9	 102.67	 0.05%	 9	 924.00	 165,185.15	 1816	 20	 1,794.00	 89.70	 6.92%	 24	 1071	 102,520.76	 95.72	 13.24%	 1133	 1728	 95.59	 10.13%	
+MONTH	Rate Code	IPPRU	Prudential Financial	 0	 0.00	 0.00	 0.00%	 0	 1	 47.00	 47.00	 0.01%	 1	 1	 47.00	 0.01%	 1	 47.00	 165,185.15	 1816	 20	 1,794.00	 89.70	 6.92%	 24	 1071	 102,520.76	 95.72	 13.24%	 1133	 1728	 95.59	 10.13%	
+MONTH	Rate Code	IPRRU	Billings Clinic	 1	 102.00	 102.00	 0.35%	 1	 103	 10,846.00	 105.30	 1.27%	 110	 165	 106.61	 0.97%	 176	 17,590.00	 165,185.15	 1816	 20	 1,794.00	 89.70	 6.92%	 24	 1071	 102,520.76	 95.72	 13.24%	 1133	 1728	 95.59	 10.13%	
+MONTH	Rate Code	IPUZS	Mining Technologies	 0	 0.00	 0.00	 0.00%	 0	 2	 238.00	 119.00	 0.02%	 2	 2	 119.00	 0.01%	 2	 238.00	 165,185.15	 1816	 20	 1,794.00	 89.70	 6.92%	 24	 1071	 102,520.76	 95.72	 13.24%	 1133	 1728	 95.59	 10.13%	
+MONTH	Rate Code	IPV6I	Signal Peak Energies	 6	 534.00	 89.00	 2.08%	 6	 229	 20,741.00	 90.57	 2.83%	 230	 265	 90.70	 1.55%	 268	 24,036.00	 165,185.15	 1816	 20	 1,794.00	 89.70	 6.92%	 24	 1071	 102,520.76	 95.72	 13.24%	 1133	 1728	 95.59	 10.13%	
+MONTH	Rate Code	IPXCP	H E Parts Internatio	 0	 0.00	 0.00	 0.00%	 0	 29	 2,681.00	 92.45	 0.36%	 29	 31	 92.23	 0.18%	 31	 2,859.00	 165,185.15	 1816	 20	 1,794.00	 89.70	 6.92%	 24	 1071	 102,520.76	 95.72	 13.24%	 1133	 1728	 95.59	 10.13%	
+MONTH	Rate Code	IPZE5	Northern Xray Compan	 0	 0.00	 0.00	 0.00%	 0	 11	 1,065.00	 96.82	 0.14%	 11	 11	 96.82	 0.06%	 11	 1,065.00	 165,185.15	 1816	 20	 1,794.00	 89.70	 6.92%	 24	 1071	 102,520.76	 95.72	 13.24%	 1133	 1728	 95.59	 10.13%	
+MONTH	Rate Code	NA_RATE_CODE	Night Audit Rate Code	 0	 0.00	 0.00	 0.00%	 0	 0	 20.00	 0.00	 0.00%	 0	 0	 0.00	 0.00%	 0	- 244.00	 165,185.15	 1816	 20	 1,794.00	 89.70	 6.92%	 24	 1071	 102,520.76	 95.72	 13.24%	 1133	 1728	 95.59	 10.13%	
+MONTH	Rate Code	Market Group	M	Gov/Dipl/Military - M	IL5FP	Fedrooms	 0	 0.00	 0.00	 0.00%	 0	 32	 2,656.00	 83.00	 0.40%	 32	 90	 83.00	 0.53%	 90	 7,470.00	 118,621.00	 1687	 28	 2,364.00	 84.43	 9.69%	 45	 753	 63,606.00	 84.47	 9.31%	 936	 1404	 84.49	 8.23%	
+MONTH	Rate Code	Market Group	M	Gov/Dipl/Military - M	IMGOV	Government Rate	 18	 1,514.00	 84.11	 6.23%	 34	 467	 39,548.00	 84.69	 5.77%	 584	 849	 84.72	 4.98%	 1017	 71,931.00	 118,621.00	 1687	 28	 2,364.00	 84.43	 9.69%	 45	 753	 63,606.00	 84.47	 9.31%	 936	 1404	 84.49	 8.23%	
+MONTH	Rate Code	Market Group	M	Gov/Dipl/Military - M	IMSTI	State Government	 10	 850.00	 85.00	 3.46%	 11	 254	 21,402.00	 84.26	 3.14%	 320	 463	 84.35	 2.72%	 578	 39,054.00	 118,621.00	 1687	 28	 2,364.00	 84.43	 9.69%	 45	 753	 63,606.00	 84.47	 9.31%	 936	 1404	 84.49	 8.23%	
+MONTH	Rate Code	Market Group	M	Gov/Dipl/Military - M	IPSGV	Cwt Sato Travel	 0	 0.00	 0.00	 0.00%	 0	 0	 0.00	 0.00	 0.00%	 0	 2	 83.00	 0.01%	 2	 166.00	 118,621.00	 1687	 28	 2,364.00	 84.43	 9.69%	 45	 753	 63,606.00	 84.47	 9.31%	 936	 1404	 84.49	 8.23%	
+MONTH	Rate Code	Market Group	N	Complimentary - N	INCMP	House Use Comp	 3	 0.00	 0.00	 1.04%	 5	 19	 0.00	 0.00	 0.23%	 22	 59	 0.00	 0.35%	 64	 0.00	 96.00	 71	 3	 0.00	 0.00	 1.04%	 5	 21	 0.00	 0.00	 0.26%	 26	 64	 1.50	 0.38%	
+MONTH	Rate Code	Market Group	N	Complimentary - N	INIHI	Ihg Owners Assoc	 0	 0.00	 0.00	 0.00%	 0	 2	 0.00	 0.00	 0.02%	 4	 4	 0.00	 0.02%	 6	 0.00	 96.00	 71	 3	 0.00	 0.00	 1.04%	 5	 21	 0.00	 0.00	 0.26%	 26	 64	 1.50	 0.38%	
+MONTH	Rate Code	Market Group	N	Complimentary - N	No Code		 0	 0.00	 0.00	 0.00%	 0	 0	 0.00	 0.00	 0.00%	 0	 1	 96.00	 0.01%	 1	 96.00	 96.00	 71	 3	 0.00	 0.00	 1.04%	 5	 21	 0.00	 0.00	 0.26%	 26	 64	 1.50	 0.38%	
+MONTH	Rate Code	Market Group	O	Crew - O	HOUSE	House Account	 0	 0.00	 0.00	 0.00%	 0	 0	- 104.00	 0.00	 0.00%	 0	 0	 0.00	 0.00%	 0	- 104.00	 86,444.00	 1625	 28	 1,594.00	 56.93	 9.69%	 28	 753	 40,800.00	 54.18	 9.31%	 753	 1624	 53.23	 9.52%	
+MONTH	Rate Code	Market Group	O	Crew - O	ILCORDEL	Delta Crew	 0	 0.00	 0.00	 0.00%	 0	 0	 0.00	 0.00	 0.00%	 0	 0	 0.00	 0.00%	 0	- 189.00	 86,444.00	 1625	 28	 1,594.00	 56.93	 9.69%	 28	 753	 40,800.00	 54.18	 9.31%	 753	 1624	 53.23	 9.52%	
+MONTH	Rate Code	Market Group	O	Crew - O	ILCORFED	Fed Ex Crew Rooms	 0	 0.00	 0.00	 0.00%	 0	 0	 0.00	 0.00	 0.00%	 0	 0	 0.00	 0.00%	 0	 742.00	 86,444.00	 1625	 28	 1,594.00	 56.93	 9.69%	 28	 753	 40,800.00	 54.18	 9.31%	 753	 1624	 53.23	 9.52%	
+MONTH	Rate Code	Market Group	O	Crew - O	ILCORSKY		 0	 0.00	 0.00	 0.00%	 0	 0	 0.00	 0.00	 0.00%	 0	 1	 50.00	 0.01%	 2	 50.00	 86,444.00	 1625	 28	 1,594.00	 56.93	 9.69%	 28	 753	 40,800.00	 54.18	 9.31%	 753	 1624	 53.23	 9.52%	
+MONTH	Rate Code	Market Group	O	Crew - O	ILCORUPS	Ups Crew Rooms	 0	 0.00	 0.00	 0.00%	 0	 0	 0.00	 0.00	 0.00%	 0	 4	 55.00	 0.02%	 4	 220.00	 86,444.00	 1625	 28	 1,594.00	 56.93	 9.69%	 28	 753	 40,800.00	 54.18	 9.31%	 753	 1624	 53.23	 9.52%	
+MONTH	Rate Code	Market Group	O	Crew - O	ILCORUTD	United Crew Rooms	 1	 52.00	 52.00	 0.35%	 1	 8	 470.00	 58.75	 0.10%	 8	 8	 26.25	 0.05%	 8	 210.00	 86,444.00	 1625	 28	 1,594.00	 56.93	 9.69%	 28	 753	 40,800.00	 54.18	 9.31%	 753	 1624	 53.23	 9.52%	
+MONTH	Rate Code	Market Group	O	Crew - O	NA_RATE_CODE	Night Audit Rate Code	 0	 0.00	 0.00	 0.00%	 0	 0	- 208.00	 0.00	 0.00%	 0	 0	 0.00	 0.00%	 0	- 44.00	 86,444.00	 1625	 28	 1,594.00	 56.93	 9.69%	 28	 753	 40,800.00	 54.18	 9.31%	 753	 1624	 53.23	 9.52%	
+MONTH	Rate Code	Market Group	O	Crew - O	No Code		 27	 1,542.00	 57.11	 9.34%	 27	 745	 40,642.00	 54.55	 9.21%	 745	 1611	 53.11	 9.45%	 1611	 85,559.00	 86,444.00	 1625	 28	 1,594.00	 56.93	 9.69%	 28	 753	 40,800.00	 54.18	 9.31%	 753	 1624	 53.23	 9.52%	
+MONTH	Rate Code	Market Group	P	Corp-Key Accts and BTA - P	IEB6I	Phillips Sixty Six	 1	 73.00	 73.00	 0.35%	 2	 153	 11,301.00	 73.86	 1.89%	 181	 301	 73.72	 1.77%	 360	 22,190.00	
+MONTH	Rate Code	Market Group	P	Corp-Key Accts and BTA - P	IGCOR	Best Flexible Rate	 0	 0.00	 0.00	 0.00%	 0	 2	 222.00	 111.00	 0.02%	 2	 2	 111.00	 0.01%	 2	 222.00	
+MONTH	Rate Code	Market Group	P	Corp-Key Accts and BTA - P	IL2WF	Wells Fargo And Comp	 3	 273.00	 91.00	 1.04%	 3	 24	 2,182.00	 90.92	 0.30%	 24	 161	 90.30	 0.94%	 163	 14,538.00	
+MONTH	Rate Code	Market Group	P	Corp-Key Accts and BTA - P	ILXPA	American Express Rat	 1	 135.00	 135.00	 0.35%	 1	 14	 2,146.00	 153.29	 0.17%	 14	 41	 144.12	 0.24%	 41	 5,909.00	
+MONTH	Rate Code	Market Group	P	Corp-Key Accts and BTA - P	ILY0W	Amex Cs Client Negot	 0	 0.00	 0.00	 0.00%	 0	 9	 1,336.50	 148.50	 0.11%	 9	 13	 146.84	 0.08%	 13	 1,908.90	
+MONTH	Rate Code	Market Group	P	Corp-Key Accts and BTA - P	ILZOI	Wendys Company The	 0	 0.00	 0.00	 0.00%	 0	 6	 524.00	 87.33	 0.07%	 6	 16	 85.25	 0.09%	 16	 1,364.00	
+MONTH	Rate Code	Market Group	P	Corp-Key Accts and BTA - P	IP2L1		 0	 0.00	 0.00	 0.00%	 0	 1	 79.00	 79.00	 0.01%	 1	 2	 79.00	 0.01%	 2	 158.00	
+MONTH	Rate Code	Market Group	P	Corp-Key Accts and BTA - P	IP3JC	Johnson Controls Inc	 0	 0.00	 0.00	 0.00%	 0	 0	 0.00	 0.00	 0.00%	 0	 6	 87.00	 0.04%	 6	 522.00	
+MONTH	Rate Code	Market Group	P	Corp-Key Accts and BTA - P	IP7B6	Radius Key Hotel Pro	 0	 0.00	 0.00	 0.00%	 0	 4	 680.00	 170.00	 0.05%	 4	 4	 170.00	 0.02%	 4	 680.00	
+MONTH	Rate Code	Market Group	P	Corp-Key Accts and BTA - P	IPABC	Abc Global Services	 0	 0.00	 0.00	 0.00%	 0	 4	 690.00	 172.50	 0.05%	 4	 8	 155.75	 0.05%	 8	 1,246.00	
+MONTH	Rate Code	IPBCD	Bcd Travel	 0	 0.00	 0.00	 0.00%	 0	 35	 5,317.00	 151.91	 0.43%	 36	 53	 150.36	 0.31%	 55	 7,969.00	
+MONTH	Rate Code	IPBNR	Burlington Northern	 13	 962.00	 74.00	 4.50%	 28	 134	 9,916.00	 74.00	 1.66%	 195	 295	 74.00	 1.73%	 395	 21,830.00	
+MONTH	Rate Code	IPCCR	Ccra	 0	 0.00	 0.00	 0.00%	 0	 3	 493.00	 164.33	 0.04%	 3	 6	 155.00	 0.04%	 6	 930.00	
+MONTH	Rate Code	IPCTS	Hickory Global Partn	 0	 0.00	 0.00	 0.00%	 0	 3	 525.00	 175.00	 0.04%	 3	 6	 147.00	 0.04%	 6	 882.00	
+MONTH	Rate Code	IPCWT	Carlson Wagonlit Tra	 0	 0.00	 0.00	 0.00%	 0	 13	 2,021.00	 155.46	 0.16%	 13	 25	 155.96	 0.15%	 25	 3,899.00	
+MONTH	Rate Code	IPEJ3	Netjets Inc	 0	 0.00	 0.00	 0.00%	 0	 4	 332.00	 83.00	 0.05%	 4	 13	 82.63	 0.08%	 13	 1,074.20	
+MONTH	Rate Code	IPET8	Anvil Corporation	 0	 0.00	 0.00	 0.00%	 0	 9	 855.00	 95.00	 0.11%	 9	 9	 95.00	 0.05%	 9	 855.00	
+MONTH	Rate Code	IPFCI	Fcm Travel Solutions	 0	 0.00	 0.00	 0.00%	 0	 15	 2,265.00	 151.00	 0.19%	 15	 15	 151.00	 0.09%	 15	 2,265.00	
+MONTH	Rate Code	IPGEC	General Electric Com	 2	 202.50	 101.25	 0.69%	 3	 4	 465.00	 116.25	 0.05%	 5	 18	 113.58	 0.11%	 19	 2,044.50	
+MONTH	Rate Code	IPHFM	Hoffman La Roche	 0	 0.00	 0.00	 0.00%	 0	 0	 0.00	 0.00	 0.00%	 0	 1	 128.79	 0.01%	 1	 128.79	
+MONTH	Rate Code	IPHHH		 0	 0.00	 0.00	 0.00%	 0	 0	 0.00	 0.00	 0.00%	 0	 8	 59.00	 0.05%	 8	 472.00	
+MONTH	Rate Code	IPIBY	Avitus Group	 0	 0.00	 0.00	 0.00%	 0	 39	 3,825.00	 98.08	 0.48%	 39	 70	 98.14	 0.41%	 70	 6,870.00	
+MONTH	Rate Code	IPJTZ	Xylem	 0	 0.00	 0.00	 0.00%	 0	 2	 272.00	 136.00	 0.02%	 2	 2	 136.00	 0.01%	 2	 272.00	
+MONTH	Rate Code	IPPFI		 0	 0.00	 0.00	 0.00%	 0	 4	 424.00	 106.00	 0.05%	 4	 4	 106.00	 0.02%	 4	 424.00	
+MONTH	Rate Code	IPPRX	Praxair Incorporated	 1	 129.00	 129.00	 0.35%	 1	 22	 2,678.00	 121.73	 0.27%	 22	 39	 116.69	 0.23%	 39	 4,551.00	
+MONTH	Rate Code	IPSCH	Intercontinental Hot	 0	 0.00	 0.00	 0.00%	 0	 0	 0.00	 0.00	 0.00%	 0	 1	 131.97	 0.01%	 1	 131.97	
+MONTH	Rate Code	IPSHE	Shell International	 0	 0.00	 0.00	 0.00%	 0	 3	 234.00	 78.00	 0.04%	 3	 3	 78.00	 0.02%	 3	 234.00	
+MONTH	Rate Code	IPSTF	State Farm Insurance	 0	 0.00	 0.00	 0.00%	 0	 11	 1,512.27	 137.48	 0.14%	 12	 12	 134.06	 0.07%	 13	 1,608.66	
+MONTH	Rate Code	IPTHR	Thor	 0	 0.00	 0.00	 0.00%	 0	 3	 493.00	 164.33	 0.04%	 3	 8	 137.00	 0.05%	 8	 1,096.00	
+MONTH	Rate Code	IPTSA	Travelsavers Tsa	 0	 0.00	 0.00	 0.00%	 0	 1	 159.00	 159.00	 0.01%	 1	 1	 159.00	 0.01%	 1	 159.00	
+MONTH	Rate Code	IPTT1	Travel Leaders Group	 0	 0.00	 0.00	 0.00%	 0	 15	 1,955.00	 130.33	 0.19%	 25	 19	 140.58	 0.11%	 29	 2,671.00	
+MONTH	Rate Code	IPUPS	United Parcel Servic	 1	 82.00	 82.00	 0.35%	 1	 2	 164.00	 82.00	 0.02%	 2	 10	 79.60	 0.06%	 10	 796.00	
+MONTH	Rate Code	IPVWT	Woodgroup Turbopower	 0	 0.00	 0.00	 0.00%	 0	 5	 545.00	 109.00	 0.06%	 5	 5	 109.00	 0.03%	 5	 545.00	
+MONTH	Rate Code	IPWTT	Radius Travel	 1	 135.00	 135.00	 0.35%	 1	 9	 1,433.00	 159.22	 0.11%	 9	 24	 158.25	 0.14%	 24	 3,798.00	
+MONTH	Rate Code	IPXOM	Exxon Mobil Corporat	 2	 154.00	 77.00	 0.69%	 2	 159	 12,243.00	 77.00	 1.96%	 162	 282	 77.00	 1.65%	 285	 21,714.00	
+MONTH	Rate Code	No Code		 0	 0.00	 0.00	 0.00%	 0	 2	 218.00	 109.00	 0.02%	 2	 2	 109.00	 0.01%	 2	 218.00	
+MONTH	Rate Code	Market Group	Q	Gov/Dipl/Mil Group - Q	GZGRP	Group Default Rate	 0	 0.00	 0.00	 0.00%	 0	 3	 249.00	 83.00	 0.04%	 3	 17	 83.00	 0.10%	 17	 1,411.00	 13,403.00	 162	 0	 0.00	 0.00	 0.00%	 0	 140	 11,909.00	 85.06	 1.73%	 144	 158	 84.83	 0.93%	
+MONTH	Rate Code	Market Group	Q	Gov/Dipl/Mil Group - Q	No Code		 0	 0.00	 0.00	 0.00%	 0	 137	 11,660.00	 85.11	 1.69%	 141	 141	 85.05	 0.83%	 145	 11,992.00	 13,403.00	 162	 0	 0.00	 0.00	 0.00%	 0	 140	 11,909.00	 85.06	 1.73%	 144	 158	 84.83	 0.93%	
+MONTH	Rate Code	Market Group	R	Rack - R	IDAAA	Aaa Membership Rate	 0	 0.00	 0.00	 0.00%	 0	 0	 0.00	 0.00	 0.00%	 0	 1	 164.68	 0.01%	 1	 164.68	 147,622.20	 1194	 17	 2,327.00	 136.88	 5.88%	 23	 425	 64,603.50	 152.01	 5.25%	 533	 987	 149.57	 5.79%	
+MONTH	Rate Code	Market Group	R	Rack - R	IGCOR	Best Flexible Rate	 17	 2,327.00	 136.88	 5.88%	 23	 424	 64,590.50	 152.34	 5.24%	 532	 985	 149.69	 5.78%	 1192	 147,444.52	 147,622.20	 1194	 17	 2,327.00	 136.88	 5.88%	 23	 425	 64,603.50	 152.01	 5.25%	 533	 987	 149.57	 5.79%	
+MONTH	Rate Code	Market Group	R	Rack - R	IPSGV	Cwt Sato Travel	 0	 0.00	 0.00	 0.00%	 0	 1	 83.00	 83.00	 0.01%	 1	 1	 83.00	 0.01%	 1	 83.00	 147,622.20	 1194	 17	 2,327.00	 136.88	 5.88%	 23	 425	 64,603.50	 152.01	 5.25%	 533	 987	 149.57	 5.79%	
+MONTH	Rate Code	Market Group	R	Rack - R	NA_RATE_CODE	Night Audit Rate Code	 0	 0.00	 0.00	 0.00%	 0	 0	- 70.00	 0.00	 0.00%	 0	 0	 0.00	 0.00%	 0	- 70.00	 147,622.20	 1194	 17	 2,327.00	 136.88	 5.88%	 23	 425	 64,603.50	 152.01	 5.25%	 533	 987	 149.57	 5.79%	
+MONTH	Rate Code	Market Group	U	Leisure Group - U	GZGRP	Group Default Rate	 0	 0.00	 0.00	 0.00%	 0	 17	 1,651.00	 97.12	 0.21%	 32	 45	 97.53	 0.26%	 69	 4,389.00	 44,735.00	 604	 23	 2,297.00	 99.87	 7.96%	 28	 296	 28,486.00	 96.24	 3.66%	 372	 487	 91.86	 2.86%	
+MONTH	Rate Code	Market Group	U	Leisure Group - U	IGCOR	Best Flexible Rate	 0	 0.00	 0.00	 0.00%	 0	 0	 0.00	 0.00	 0.00%	 0	 1	 89.00	 0.01%	 1	 89.00	 44,735.00	 604	 23	 2,297.00	 99.87	 7.96%	 28	 296	 28,486.00	 96.24	 3.66%	 372	 487	 91.86	 2.86%	
+MONTH	Rate Code	Market Group	U	Leisure Group - U	INCMP	House Use Comp	 0	 0.00	 0.00	 0.00%	 0	 5	 0.00	 0.00	 0.06%	 5	 7	 0.00	 0.04%	 7	 0.00	 44,735.00	 604	 23	 2,297.00	 99.87	 7.96%	 28	 296	 28,486.00	 96.24	 3.66%	 372	 487	 91.86	 2.86%	
+MONTH	Rate Code	Market Group	U	Leisure Group - U	No Code		 23	 2,297.00	 99.87	 7.96%	 28	 274	 26,835.00	 97.94	 3.39%	 335	 434	 92.76	 2.55%	 527	 40,257.00	 44,735.00	 604	 23	 2,297.00	 99.87	 7.96%	 28	 296	 28,486.00	 96.24	 3.66%	 372	 487	 91.86	 2.86%	
+MONTH	Rate Code	Market Group	V	Industry Programs -V	IVALP	Airline Staff Rate	 0	 0.00	 0.00	 0.00%	 0	 0	 0.00	 0.00	 0.00%	 0	 5	 98.25	 0.03%	 6	 491.25	
+MONTH	Rate Code	Market Group	V	Industry Programs -V	IVANI	Reward Nights	 1	 25.00	 25.00	 0.35%	 2	 29	 636.95	 21.96	 0.36%	 43	 61	 29.15	 0.36%	 86	 1,778.15	
+MONTH	Rate Code	Market Group	V	Industry Programs -V	IVCFN	Chase Free Night	 0	 0.00	 0.00	 0.00%	 0	 1	 25.00	 25.00	 0.01%	 1	 2	 25.00	 0.01%	 2	 50.00	
+MONTH	Rate Code	Market Group	V	Industry Programs -V	IVEDI	Employee Rate	 4	 156.00	 39.00	 1.38%	 6	 38	 1,632.00	 42.95	 0.47%	 44	 99	 40.44	 0.58%	 131	 4,004.00	
+MONTH	Rate Code	Market Group	V	Industry Programs -V	IVFF1	Friend Family 15	 0	 0.00	 0.00	 0.00%	 0	 10	 623.26	 62.33	 0.12%	 11	 24	 59.31	 0.14%	 27	 1,423.52	
+MONTH	Rate Code	Market Group	V	Industry Programs -V	IVFFB	Friend Family Bfr 15	 0	 0.00	 0.00	 0.00%	 0	 0	 0.00	 0.00	 0.00%	 0	 3	 34.00	 0.02%	 15	 102.00	
+MONTH	Rate Code	Market Group	V	Industry Programs -V	IVTCD	Tvl Consultant  Disc	 0	 0.00	 0.00	 0.00%	 0	 0	 0.00	 0.00	 0.00%	 0	 2	 77.35	 0.01%	 2	 154.70	
+MONTH	Rate Code	Market Group	V	Industry Programs -V	No Code		 0	 0.00	 0.00	 0.00%	 0	 0	 0.00	 0.00	 0.00%	 0	 1	 59.00	 0.01%	 2	 59.00	

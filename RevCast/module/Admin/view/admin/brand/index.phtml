@@ -1,0 +1,40 @@
+<?php
+$title = 'Brand Administration';
+$this->headTitle($title);
+?>
+<h1><?php echo $this->escapeHtml($title); ?></h1>
+<div class="rc-button">
+    <a href="<?php echo $this->url('brand', array('action'=>'add'));?>">Add new brand</a>
+</div>
+
+<h3>Active Brands</h3>
+<table class="table">
+    <tr class="headerRow">
+        <th>Brand</th>
+        <th>&nbsp;</th>
+        <th>&nbsp;</th>
+    </tr>
+    <?php foreach ($activeBrands as $brand){ ?>
+        <tr>
+            <td><?php echo $brand->brand;?></td>
+            <td><a href="<?php echo $this->url('brand', array('action'=>'edit', 'id' => $brand->id));?>">Edit</a></td>
+            <td><a href="<?php echo $this->url('brand',array('action'=>'disable', 'id' => $brand->id));?>">Disable</a></td>
+        </tr>
+    <?php } ?>
+</table>
+
+<?php if(count($inactiveBrands) > 0){ ?>
+<h3>Inactive Brands</h3>
+<table class="table">
+    <tr>
+        <th>Brand</th>
+        <th>&nbsp;</th>
+    </tr>
+    <?php foreach ($inactiveBrands as $iBrand) : ?>
+        <tr>
+            <td><?php echo $iBrand->brand;?></td>
+            <td><a href="<?php echo $this->url('brand', array('action'=>'enable', 'id' => $iBrand->id));?>">Enable</a></td>
+        </tr>
+    <?php endforeach; ?>
+</table>
+<?php } ?>

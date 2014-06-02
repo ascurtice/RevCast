@@ -1,0 +1,35 @@
+<?php
+$title = 'Inactive User Administration';
+$this->headTitle($title);
+?>
+<h1><?php echo $this->escapeHtml($title); ?></h1>
+<div class="rc-button">
+    <a href="<?php echo $this->url('user', array('action'=>'index'));?>">View Active Users</a>
+</div>
+
+<table class="table">
+    <tr class="headerRow">
+        <th>Username</th>
+        <th>Email Address</th>
+        <th>Property</th>
+        <th>&nbsp;</th>
+    </tr>
+    <?php foreach ($this->paginator as $user){ ?>
+        <tr>
+            <td><?php echo $user->username; ?></td>
+            <td><?php echo $user->email; ?></td>
+            <td><?php echo $properties[$user->property_id]; ?></td>
+            <td><a href="<?php echo $this->url('user',array('action'=>'enable', 'id' => $user->id));?>">Enable</a></td>
+        </tr>
+    <?php } ?>
+</table>
+<?php
+echo $this->paginationControl(
+    $this->paginator,
+    'sliding',
+    array('partial/paginator.phtml', 'User'),
+    array(
+        'route' => 'user'
+    )
+);
+?>

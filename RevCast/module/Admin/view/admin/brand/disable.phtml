@@ -1,0 +1,25 @@
+<?php
+$title = 'Disable brand';
+$this->headTitle($title);
+?>
+<h1><?php echo $this->escapeHtml($title); ?></h1>
+
+<p>Are you sure that you want to disable
+    <?php echo $this->escapeHtml($brand->brand); ?>?
+</p>
+<p style="font-weight:bold; color: red;">
+	WARNING: DISABLING A BRAND WILL DISABLE ALL ASSOCIATED PROPERTIES AS WELL AS USERS.  THIS ACTION CANNOT BE REVERSED!
+</p>
+<?php
+$url = $this->url('brand', array(
+    'action' => 'disable',
+    'id'     => $this->id,
+));
+?>
+<form action="<?php echo $url; ?>" method="post">
+    <div>
+        <input type="hidden" name="id" value="<?php echo (int) $brand->id; ?>" />
+        <input type="submit" name="del" value="Yes" />
+        <input type="submit" name="del" value="No" />
+    </div>
+</form>

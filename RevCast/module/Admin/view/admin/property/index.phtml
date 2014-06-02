@@ -1,0 +1,48 @@
+<?php
+$title = 'Property Administration';
+$this->headTitle($title);
+?>
+    <h1><?php echo $this->escapeHtml($title); ?></h1>
+    <div class="rc-button">
+        <a href="<?php echo $this->url('property', array('action'=>'add'));?>">Add new property</a>
+    </div>
+
+    <h3>Active Properties</h3>
+    <table class="table">
+        <tr class="headerRow">
+            <th>Brand</th>
+            <th>Location</th>
+            <th>Abbreviation</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+        </tr>
+        <?php foreach ($activeProperties as $property){ ?>
+            <tr>
+                <td><?php echo $brands[$property->brand_id];?></td>
+                <td><?php echo $property->location;?></td>
+                <td><?php echo $property->abbreviation;?></td>
+                <td><a href="<?php echo $this->url('property', array('action'=>'edit', 'id' => $property->id));?>">Edit</a></td>
+                <td><a href="<?php echo $this->url('property',array('action'=>'disable', 'id' => $property->id));?>">Disable</a></td>
+            </tr>
+        <?php } ?>
+    </table>
+
+<?php if(count($inactiveProperties) > 0){ ?>
+    <h3>Inactive Properties</h3>
+    <table class="table">
+        <tr>
+            <th>Brand</th>
+            <th>Location</th>
+            <th>Abbreviation</th>
+            <th>&nbsp;</th>
+        </tr>
+        <?php foreach ($inactiveProperties as $iProperty) : ?>
+            <tr>
+                <td><?php echo $brands[$iProperty->brand_id];?></td>
+                <td><?php echo $iProperty->location;?></td>
+                <td><?php echo $iProperty->abbreviation;?></td>
+                <td><a href="<?php echo $this->url('property', array('action'=>'enable', 'id' => $iProperty->id));?>">Enable</a></td>
+            </tr>
+        <?php endforeach; ?>
+    </table>
+<?php } ?>
