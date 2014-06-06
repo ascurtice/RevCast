@@ -30,7 +30,7 @@ if (is_dir('vendor/ZF2/library')) {
 } elseif (get_cfg_var('zf2_path')) { // Support for zf2_path directive value
     $zf2Path = get_cfg_var('zf2_path');
 } */
-$zf2Path = '/home/ZendFramework-2.3.1'
+$zf2Path = '/home/ZendFramework-2.3.1';
 
 if ($zf2Path) {
     if (isset($loader)) {
